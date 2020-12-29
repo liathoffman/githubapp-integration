@@ -7,3 +7,6 @@ stage("test") {
 stage("test") {
   echo "another build!"
 }
+stage("test") {
+  echo "bow testing apps"
+}
